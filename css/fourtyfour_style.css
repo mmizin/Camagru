@@ -1,0 +1,17 @@
+
+body {
+    height: 100vh;
+    width: 100%;
+}
+.sory_gif {
+    background: url("https://media1.tenor.com/images/914ce5a71f8c31f8e457ff573ec62881/tenor.gif?itemid=9638690") no-repeat center top / cover;
+    margin:  0 auto;
+    -webkit-background-size: cover;
+    background-size: cover;
+    width: 700px;
+    height: 400px;
+}
+.header h1 {
+    padding: 30px 45%;
+    width: 100%;
+}
